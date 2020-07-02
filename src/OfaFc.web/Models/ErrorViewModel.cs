@@ -1,6 +1,6 @@
 using System;
 
-namespace OfaFc.Models
+namespace OfaFc.web.Models
 {
     public class ErrorViewModel
     {
